@@ -1,0 +1,4 @@
+interface:
+  display_name: "KI Control"
+  short_description: "Route models and agents without waste"
+  default_prompt: "Use $ki-control to choose the lightest capable model and delegate only when it helps."

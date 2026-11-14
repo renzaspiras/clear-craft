@@ -1,0 +1,24 @@
+{
+  "interface": {
+    "capabilities": [],
+    "category": "Developer Tools",
+    "defaultPrompt": [
+      "Keep me updated while you work.",
+      "Research and verify this implementation.",
+      "Review this UI in Playwright across screen sizes."
+    ],
+    "developerName": "Renz Aspiras",
+    "displayName": "Clear Craft",
+    "longDescription": "Keep work easy to follow, research and verify difficult engineering tasks, build responsive interfaces with Playwright review, and route models or subagents by task fit.",
+    "shortDescription": "Clear progress, smart routing"
+  },
+  "name": "clear-craft",
+  "version": "0.2.0",
+  "description": "A focused workflow for clear progress updates, evidence-driven engineering, polished responsive interfaces, and cost-aware model routing.",
+  "author": {
+    "name": "Renz Aspiras",
+    "email": "aspirasrenz@gmail.com"
+  },
+  "keywords": [],
+  "skills": "./skills"
+}

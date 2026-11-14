@@ -1,10 +1,11 @@
 # Clear Craft
 
-Clear Craft bundles three skills for focused, evidence-based work:
+Clear Craft bundles four skills for focused, evidence-based work:
 
 - **Clear Progress** keeps replies concise and gives visible updates during multi-step work.
 - **Evidence-Driven Engineering** researches meaningful uncertainty, implements the smallest supported change, and verifies results with evidence.
 - **Interface Craft** helps build intentional, responsive interfaces and requires a Playwright visual review for rendered UI changes.
+- **KI Control** routes work by model fit and delegates only when independent subagent work improves the result.
 
 ## Plugin contents
 

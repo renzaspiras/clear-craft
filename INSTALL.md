@@ -1,6 +1,6 @@
 # Install Clear Craft
 
-Clear Craft includes three skills: **Clear Progress**, **Evidence-Driven Engineering**, and **Interface Craft**. The plugin has no MCP server or connected app to authorize.
+Clear Craft includes four skills: **Clear Progress**, **Evidence-Driven Engineering**, **Interface Craft**, and **KI Control**. The plugin has no MCP server or connected app to authorize.
 
 ## Codex CLI or Codex desktop from GitHub
 
@@ -21,7 +21,7 @@ The GitHub repository is private, so make sure Git can access it as `renzaspiras
    enabled = true
    ```
 
-4. Start a new Codex session and confirm the three skills appear in the plugin.
+4. Start a new Codex session and confirm all four skills appear in the plugin.
 
 To check or refresh the marketplace later:
 
@@ -43,7 +43,7 @@ For an agent host that discovers standalone skills, copy the three skill folders
 ```sh
 gh repo clone renzaspiras/clear-craft
 mkdir -p .agents/skills
-cp -R clear-craft/skills/clear-progress clear-craft/skills/evidence-driven-engineering clear-craft/skills/interface-craft .agents/skills/
+cp -R clear-craft/skills/clear-progress clear-craft/skills/evidence-driven-engineering clear-craft/skills/interface-craft clear-craft/skills/ki-control .agents/skills/
 ```
 
 Start a new agent session so it discovers the installed skills. For user-wide Codex discovery, use `~/.agents/skills/` instead of the project's `.agents/skills/`.
