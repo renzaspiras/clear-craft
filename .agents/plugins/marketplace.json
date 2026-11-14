@@ -1,0 +1,20 @@
+{
+  "name": "clear-craft",
+  "interface": {
+    "displayName": "Clear Craft"
+  },
+  "plugins": [
+    {
+      "name": "clear-craft",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

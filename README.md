@@ -14,4 +14,4 @@ The plugin is also available privately in the creator's ChatGPT account. This re
 
 ## Use
 
-Install or import the repository as an Agent Plugin in a compatible host. The skills are also readable as standalone skill folders by compatible agents that discover `skills/` directories.
+See [INSTALL.md](INSTALL.md) for Codex marketplace, ChatGPT account, and standalone skill installation steps.
