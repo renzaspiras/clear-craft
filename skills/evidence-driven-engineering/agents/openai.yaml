@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evidence-Driven Engineering"
+  short_description: "Research, implement, and verify difficult work"
+  default_prompt: "Use $evidence-driven-engineering to investigate uncertainty and verify the result with evidence."

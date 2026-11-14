@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clear Progress"
+  short_description: "Clear replies and visible task progress"
+  default_prompt: "Use $clear-progress to keep replies clear and report tool progress."

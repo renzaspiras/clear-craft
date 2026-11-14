@@ -1,0 +1,3 @@
+interface:
+  display_name: "Interface Craft"
+  short_description: "Design intentional responsive UI and verify it with Playwright"

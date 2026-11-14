@@ -1,0 +1,26 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "clear-craft",
+  "version": "0.1.0",
+  "description": "A focused workflow for clear progress updates, evidence-driven engineering, and polished, responsive interfaces verified in Playwright.",
+  "author": {
+    "name": "renzaspiras"
+  },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Clear Craft",
+        "shortDescription": "Clear progress, grounded work",
+        "longDescription": "Keep work easy to follow with concise progress updates, research and verify difficult engineering tasks, and build intentional responsive interfaces with required Playwright visual review.",
+        "developerName": "renzaspiras",
+        "category": "Developer Tools",
+        "capabilities": [],
+        "defaultPrompt": [
+          "Keep me updated while you work.",
+          "Research and verify this implementation.",
+          "Review this UI in Playwright across screen sizes."
+        ]
+      }
+    }
+  }
+}
